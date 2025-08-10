@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" fill="none" stroke="#BFAFA0" stroke-width="1.5" opacity="0.35">
+  <!-- Stetoskop -->
+  <path d="M40 40 q0 15 10 15 t10 -15 v-10 a5 5 0 0 0 -10 0"></path>
+  <circle cx="50" cy="25" r="5"></circle>
+
+  <!-- Kapsul -->
+  <rect x="120" y="30" width="40" height="16" rx="8"></rect>
+  <line x1="140" y1="30" x2="140" y2="46"></line>
+
+  <!-- Pil bulat -->
+  <circle cx="60" cy="140" r="12"></circle>
+  <line x1="48" y1="140" x2="72" y2="140"></line>
+
+  <!-- Botol obat -->
+  <rect x="130" y="120" width="25" height="35" rx="3"></rect>
+  <rect x="135" y="112" width="15" height="8" rx="2"></rect>
+
+  <!-- Termometer -->
+  <rect x="20" y="100" width="8" height="35" rx="4"></rect>
+  <circle cx="24" cy="140" r="6"></circle>
+</svg>
