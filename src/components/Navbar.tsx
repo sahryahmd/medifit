@@ -25,25 +25,25 @@ export default function Navbar() {
             Home
           </Link>
           <Link
-            href="/shop"
+            href="/"
             className="text-sm font-medium text-[#503217] hover:text-[#8C7E73]"
           >
             Shop
           </Link>
           <Link
-            href="/pages"
+            href="/"
             className="text-sm font-medium text-[#503217] hover:text-[#8C7E73]"
           >
             Pages
           </Link>
           <Link
-            href="/about"
+            href="/"
             className="text-sm font-medium text-[#503217] hover:text-[#8C7E73]"
           >
             About
           </Link>
           <Link
-            href="/contact"
+            href="/"
             className="text-sm font-medium text-[#503217] hover:text-[#8C7E73]"
           >
             Contact

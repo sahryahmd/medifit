@@ -44,32 +44,32 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/shop" className="hover:underline">
+                <Link href="/" className="hover:underline">
                   Shop
                 </Link>
               </li>
               <li>
-                <Link href="/about" className="hover:underline">
+                <Link href="/" className="hover:underline">
                   About
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:underline">
+                <Link href="/" className="hover:underline">
                   Contact
                 </Link>
               </li>
               <li>
-                <Link href="/blog" className="hover:underline">
+                <Link href="/" className="hover:underline">
                   Blog
                 </Link>
               </li>
               <li>
-                <Link href="/privacy-policy" className="hover:underline">
+                <Link href="/" className="hover:underline">
                   Privacy policy
                 </Link>
               </li>
               <li>
-                <Link href="/faq" className="hover:underline">
+                <Link href="/" className="hover:underline">
                   FAQs
                 </Link>
               </li>
@@ -83,37 +83,37 @@ export default function Footer() {
             </h4>
             <ul className="space-y-2 text-sm text-[#6B5E55]">
               <li>
-                <Link href="/style-guide" className="hover:underline">
+                <Link href="/" className="hover:underline">
                   Style guide
                 </Link>
               </li>
               <li>
-                <Link href="/instructions" className="hover:underline">
+                <Link href="/" className="hover:underline">
                   Instruction
                 </Link>
               </li>
               <li>
-                <Link href="/changelog" className="hover:underline">
+                <Link href="/" className="hover:underline">
                   Changelog
                 </Link>
               </li>
               <li>
-                <Link href="/licenses" className="hover:underline">
+                <Link href="/" className="hover:underline">
                   Licenses
                 </Link>
               </li>
               <li>
-                <Link href="/link-in-bio" className="hover:underline">
+                <Link href="/" className="hover:underline">
                   Link in bio
                 </Link>
               </li>
               <li>
-                <Link href="/404" className="hover:underline">
+                <Link href="/" className="hover:underline">
                   Error 404
                 </Link>
               </li>
               <li>
-                <Link href="/password" className="hover:underline">
+                <Link href="/" className="hover:underline">
                   Password protected
                 </Link>
               </li>
